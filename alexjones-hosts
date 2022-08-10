@@ -6,6 +6,8 @@
 0.0.0.0 api-assets.infowars.com
 0.0.0.0 assets.infowarsmedia.com
 0.0.0.0 audio.infowars.com
+0.0.0.0 autoconfig.prisonplanet.news
+0.0.0.0 autodiscover.prisonplanet.news
 0.0.0.0 banned.video
 0.0.0.0 beta.infowars.com
 0.0.0.0 cdn.infowars.com
@@ -17,14 +19,17 @@
 0.0.0.0 freespeechsystems.com
 0.0.0.0 freespeechsystems.tv
 0.0.0.0 ftp.infowarslife.com
+0.0.0.0 ftp.prisonplanet.news
 0.0.0.0 images.infowarsmedia.com
 0.0.0.0 infowars.com
 0.0.0.0 infowarslife.com
 0.0.0.0 infowarsmedia.com
 0.0.0.0 infowarsstore.com
+0.0.0.0 localhost.prisonplanet.news
 0.0.0.0 mail.infowars.com
 0.0.0.0 mail.infowarslife.com
 0.0.0.0 mail.infowarsstore.com
+0.0.0.0 mail.prisonplanet.news
 0.0.0.0 mobile.infowars.com
 0.0.0.0 new.infowars.com
 0.0.0.0 new.infowarsmedia.com
@@ -33,9 +38,11 @@
 0.0.0.0 ns2.infowars.com
 0.0.0.0 ns3.infowars.com
 0.0.0.0 poll.infowars.com
+0.0.0.0 prisonplanet.news
 0.0.0.0 rss.infowars.com
 0.0.0.0 sender.infowars.com
 0.0.0.0 shop.infowars.com
+0.0.0.0 ssh.prisonplanet.news
 0.0.0.0 static.infowars.com
 0.0.0.0 storage.infowarsmedia.com
 0.0.0.0 store.infowars.com
@@ -52,4 +59,5 @@
 0.0.0.0 www.infowarsmedia.com
 0.0.0.0 www.infowarsstore.com
 0.0.0.0 www.newswars.com
+0.0.0.0 www.prisonplanet.news
 0.0.0.0 xml.infowars.com
